@@ -1,0 +1,11 @@
+route,destination,flights,on_time_pct,avg_arr_delay_min
+EWR-RIC,Richmond Intl,1667,60.5,25.8
+EWR-DCA,Ronald Reagan Washington Natl,1719,61.6,21.3
+EWR-MEM,Memphis Intl,926,61.7,19.9
+EWR-MKE,General Mitchell Intl,1094,62.2,24.0
+JFK-CMH,Port Columbus Intl,742,62.6,22.9
+EWR-PWM,Portland Intl Jetport,770,63.7,23.0
+EWR-MCI,Kansas City Intl,1356,63.8,20.2
+EWR-JAX,Jacksonville Intl,1242,64.3,16.0
+EWR-GRR,Gerald R Ford Intl,719,64.8,19.4
+EWR-GSP,Greenville-Spartanburg International,745,65.5,18.1

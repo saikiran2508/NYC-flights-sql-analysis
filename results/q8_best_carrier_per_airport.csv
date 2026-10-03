@@ -1,0 +1,7 @@
+origin,position,airline,flights,on_time_pct
+EWR,Best,Endeavor Air Inc.,1268,84.1
+EWR,Worst,ExpressJet Airlines Inc.,43939,67.5
+JFK,Best,Delta Air Lines Inc.,20701,83.4
+JFK,Worst,Envoy Air,7193,72.7
+LGA,Best,American Airlines Inc.,15459,82.5
+LGA,Worst,AirTran Airways Corporation,3260,66.5

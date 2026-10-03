@@ -1,0 +1,4 @@
+previous_leg_status,flights,avg_dep_delay_min,pct_departed_late
+1. Previous leg on time,64925,12.6,22.4
+2. Previous leg 16-60 min late,10398,35.1,54.4
+3. Previous leg 60+ min late,3932,84.2,85.0

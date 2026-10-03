@@ -1,0 +1,4 @@
+origin,airport,scheduled_flights,cancel_rate_pct,on_time_pct,avg_dep_delay_min,median_dep_delay_min
+LGA,La Guardia,104662,3.01,77.6,10.3,-3.0
+JFK,John F Kennedy Intl,111279,1.67,77.0,12.1,-1.0
+EWR,Newark Liberty Intl,120835,2.68,74.4,15.1,-1.0

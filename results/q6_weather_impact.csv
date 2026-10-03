@@ -1,0 +1,5 @@
+conditions,flights,cancel_rate_pct,on_time_pct,avg_dep_delay_min
+1. Low visibility (<1 mi),3975,8.93,55.2,29.7
+2. Precipitation,21901,7.93,52.9,30.8
+3. High wind (20+ mph),18269,4.4,73.0,13.8
+4. Clear conditions,291075,1.83,78.4,11.1
